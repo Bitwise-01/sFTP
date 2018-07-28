@@ -38,7 +38,7 @@ else:
 ```
 
 ### Timeout
-by default max time is set to 10 seconds, after 10 seconds with a connection the server closes.
+by default max time is set to 10 seconds, after 10 seconds without a connection the server closes.
 
 Server side
 ```python
